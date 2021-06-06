@@ -1,0 +1,7 @@
+Thu Jan 14 17:27:05 MSK 2021;INFO;Operation requested: getCustomer
+Thu Jan 14 17:27:05 MSK 2021;INFO;Operation requested: getCustomer
+Thu Jan 14 17:27:05 MSK 2021;INFO;Operation requested: getContracts
+Thu Jan 14 17:27:05 MSK 2021;WARN;Heap size left: 3%, blocking incoming getCustomer requests
+Thu Jan 14 17:27:05 MSK 2021;INFO;Operation requested: getContracts
+Thu Jan 14 17:27:05 MSK 2021;INFO;Operation requested: getContracts
+Thu Jan 14 17:27:07 MSK 2021;FATAL;java.lang.OutOfMemoryError
